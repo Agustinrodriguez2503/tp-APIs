@@ -1,0 +1,54 @@
+C:\Users\agustin\Desktop\tp4\tp-web-equipo-7a\dominio\bin\Debug\dominio.dll
+C:\Users\agustin\Desktop\tp4\tp-web-equipo-7a\dominio\bin\Debug\dominio.pdb
+C:\Users\agustin\Desktop\tp4\tp-web-equipo-7a\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+C:\Users\agustin\Desktop\tp4\tp-web-equipo-7a\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+C:\Users\agustin\Desktop\tp4\tp-web-equipo-7a\dominio\obj\Debug\dominio.dll
+C:\Users\agustin\Desktop\tp4\tp-web-equipo-7a\dominio\obj\Debug\dominio.pdb
+C:\Users\maria\Desktop\WEB\tp-web-equipo-7a\dominio\bin\Debug\dominio.dll
+C:\Users\maria\Desktop\WEB\tp-web-equipo-7a\dominio\bin\Debug\dominio.pdb
+C:\Users\maria\Desktop\WEB\tp-web-equipo-7a\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+C:\Users\maria\Desktop\WEB\tp-web-equipo-7a\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+C:\Users\maria\Desktop\WEB\tp-web-equipo-7a\dominio\obj\Debug\dominio.dll
+C:\Users\maria\Desktop\WEB\tp-web-equipo-7a\dominio\obj\Debug\dominio.pdb
+C:\Users\nahue\Downloads\repo web\tp-web-equipo-7a\dominio\bin\Debug\dominio.dll
+C:\Users\nahue\Downloads\repo web\tp-web-equipo-7a\dominio\bin\Debug\dominio.pdb
+C:\Users\nahue\Downloads\repo web\tp-web-equipo-7a\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+C:\Users\nahue\Downloads\repo web\tp-web-equipo-7a\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+C:\Users\nahue\Downloads\repo web\tp-web-equipo-7a\dominio\obj\Debug\dominio.dll
+C:\Users\nahue\Downloads\repo web\tp-web-equipo-7a\dominio\obj\Debug\dominio.pdb
+C:\Users\agustin\Desktop\TPGRUPAL\tp-web-equipo-7a\dominio\bin\Debug\dominio.dll
+C:\Users\agustin\Desktop\TPGRUPAL\tp-web-equipo-7a\dominio\bin\Debug\dominio.pdb
+C:\Users\agustin\Desktop\TPGRUPAL\tp-web-equipo-7a\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+C:\Users\agustin\Desktop\TPGRUPAL\tp-web-equipo-7a\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+C:\Users\agustin\Desktop\TPGRUPAL\tp-web-equipo-7a\dominio\obj\Debug\dominio.dll
+C:\Users\agustin\Desktop\TPGRUPAL\tp-web-equipo-7a\dominio\obj\Debug\dominio.pdb
+C:\Users\agustin\Desktop\tp4grupal\tp-web-equipo-7a\dominio\bin\Debug\dominio.dll
+C:\Users\agustin\Desktop\tp4grupal\tp-web-equipo-7a\dominio\bin\Debug\dominio.pdb
+C:\Users\agustin\Desktop\tp4grupal\tp-web-equipo-7a\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+C:\Users\agustin\Desktop\tp4grupal\tp-web-equipo-7a\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+C:\Users\agustin\Desktop\tp4grupal\tp-web-equipo-7a\dominio\obj\Debug\dominio.dll
+C:\Users\agustin\Desktop\tp4grupal\tp-web-equipo-7a\dominio\obj\Debug\dominio.pdb
+C:\Users\maria\Desktop\WEB2\tp-web-equipo-7a\dominio\bin\Debug\dominio.dll
+C:\Users\maria\Desktop\WEB2\tp-web-equipo-7a\dominio\bin\Debug\dominio.pdb
+C:\Users\maria\Desktop\WEB2\tp-web-equipo-7a\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+C:\Users\maria\Desktop\WEB2\tp-web-equipo-7a\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+C:\Users\maria\Desktop\WEB2\tp-web-equipo-7a\dominio\obj\Debug\dominio.dll
+C:\Users\maria\Desktop\WEB2\tp-web-equipo-7a\dominio\obj\Debug\dominio.pdb
+C:\Users\maria\Desktop\tp4\tp-web-equipo-7a\dominio\bin\Debug\dominio.dll
+C:\Users\maria\Desktop\tp4\tp-web-equipo-7a\dominio\bin\Debug\dominio.pdb
+C:\Users\maria\Desktop\tp4\tp-web-equipo-7a\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+C:\Users\maria\Desktop\tp4\tp-web-equipo-7a\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+C:\Users\maria\Desktop\tp4\tp-web-equipo-7a\dominio\obj\Debug\dominio.dll
+C:\Users\maria\Desktop\tp4\tp-web-equipo-7a\dominio\obj\Debug\dominio.pdb
+C:\Users\maria\Desktop\El ultimo de los ultimos\tp-web-equipo-7a\dominio\bin\Debug\dominio.dll
+C:\Users\maria\Desktop\El ultimo de los ultimos\tp-web-equipo-7a\dominio\bin\Debug\dominio.pdb
+C:\Users\maria\Desktop\El ultimo de los ultimos\tp-web-equipo-7a\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+C:\Users\maria\Desktop\El ultimo de los ultimos\tp-web-equipo-7a\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+C:\Users\maria\Desktop\El ultimo de los ultimos\tp-web-equipo-7a\dominio\obj\Debug\dominio.dll
+C:\Users\maria\Desktop\El ultimo de los ultimos\tp-web-equipo-7a\dominio\obj\Debug\dominio.pdb
+C:\Users\agustin\Desktop\tp5-Apis\TPAPIs_equipo-7a\dominio\bin\Debug\dominio.dll
+C:\Users\agustin\Desktop\tp5-Apis\TPAPIs_equipo-7a\dominio\bin\Debug\dominio.pdb
+C:\Users\agustin\Desktop\tp5-Apis\TPAPIs_equipo-7a\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+C:\Users\agustin\Desktop\tp5-Apis\TPAPIs_equipo-7a\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+C:\Users\agustin\Desktop\tp5-Apis\TPAPIs_equipo-7a\dominio\obj\Debug\dominio.dll
+C:\Users\agustin\Desktop\tp5-Apis\TPAPIs_equipo-7a\dominio\obj\Debug\dominio.pdb

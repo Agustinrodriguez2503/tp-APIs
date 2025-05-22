@@ -1,0 +1,90 @@
+C:\Users\agustin\Desktop\tp4\tp-web-equipo-7a\negocio\bin\Debug\negocio.dll
+C:\Users\agustin\Desktop\tp4\tp-web-equipo-7a\negocio\bin\Debug\negocio.pdb
+C:\Users\agustin\Desktop\tp4\tp-web-equipo-7a\negocio\bin\Debug\dominio.dll
+C:\Users\agustin\Desktop\tp4\tp-web-equipo-7a\negocio\bin\Debug\dominio.pdb
+C:\Users\agustin\Desktop\tp4\tp-web-equipo-7a\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\agustin\Desktop\tp4\tp-web-equipo-7a\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\agustin\Desktop\tp4\tp-web-equipo-7a\negocio\obj\Debug\negocio.csproj.Up2Date
+C:\Users\agustin\Desktop\tp4\tp-web-equipo-7a\negocio\obj\Debug\negocio.dll
+C:\Users\agustin\Desktop\tp4\tp-web-equipo-7a\negocio\obj\Debug\negocio.pdb
+C:\Users\maria\Desktop\WEB\tp-web-equipo-7a\negocio\bin\Debug\negocio.dll
+C:\Users\maria\Desktop\WEB\tp-web-equipo-7a\negocio\bin\Debug\negocio.pdb
+C:\Users\maria\Desktop\WEB\tp-web-equipo-7a\negocio\bin\Debug\dominio.dll
+C:\Users\maria\Desktop\WEB\tp-web-equipo-7a\negocio\bin\Debug\dominio.pdb
+C:\Users\maria\Desktop\WEB\tp-web-equipo-7a\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\maria\Desktop\WEB\tp-web-equipo-7a\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\maria\Desktop\WEB\tp-web-equipo-7a\negocio\obj\Debug\negocio.csproj.Up2Date
+C:\Users\maria\Desktop\WEB\tp-web-equipo-7a\negocio\obj\Debug\negocio.dll
+C:\Users\maria\Desktop\WEB\tp-web-equipo-7a\negocio\obj\Debug\negocio.pdb
+C:\Users\nahue\Downloads\repo web\tp-web-equipo-7a\negocio\bin\Debug\negocio.dll
+C:\Users\nahue\Downloads\repo web\tp-web-equipo-7a\negocio\bin\Debug\negocio.pdb
+C:\Users\nahue\Downloads\repo web\tp-web-equipo-7a\negocio\bin\Debug\dominio.dll
+C:\Users\nahue\Downloads\repo web\tp-web-equipo-7a\negocio\bin\Debug\dominio.pdb
+C:\Users\nahue\Downloads\repo web\tp-web-equipo-7a\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\nahue\Downloads\repo web\tp-web-equipo-7a\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\nahue\Downloads\repo web\tp-web-equipo-7a\negocio\obj\Debug\negocio.csproj.Up2Date
+C:\Users\nahue\Downloads\repo web\tp-web-equipo-7a\negocio\obj\Debug\negocio.dll
+C:\Users\nahue\Downloads\repo web\tp-web-equipo-7a\negocio\obj\Debug\negocio.pdb
+C:\Users\agustin\Desktop\TPGRUPAL\tp-web-equipo-7a\negocio\bin\Debug\negocio.dll
+C:\Users\agustin\Desktop\TPGRUPAL\tp-web-equipo-7a\negocio\bin\Debug\negocio.pdb
+C:\Users\agustin\Desktop\TPGRUPAL\tp-web-equipo-7a\negocio\bin\Debug\dominio.dll
+C:\Users\agustin\Desktop\TPGRUPAL\tp-web-equipo-7a\negocio\bin\Debug\dominio.pdb
+C:\Users\agustin\Desktop\TPGRUPAL\tp-web-equipo-7a\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\agustin\Desktop\TPGRUPAL\tp-web-equipo-7a\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\agustin\Desktop\TPGRUPAL\tp-web-equipo-7a\negocio\obj\Debug\negocio.csproj.Up2Date
+C:\Users\agustin\Desktop\TPGRUPAL\tp-web-equipo-7a\negocio\obj\Debug\negocio.dll
+C:\Users\agustin\Desktop\TPGRUPAL\tp-web-equipo-7a\negocio\obj\Debug\negocio.pdb
+C:\Users\agustin\Desktop\tp4grupal\tp-web-equipo-7a\negocio\bin\Debug\negocio.dll
+C:\Users\agustin\Desktop\tp4grupal\tp-web-equipo-7a\negocio\bin\Debug\negocio.pdb
+C:\Users\agustin\Desktop\tp4grupal\tp-web-equipo-7a\negocio\bin\Debug\dominio.dll
+C:\Users\agustin\Desktop\tp4grupal\tp-web-equipo-7a\negocio\bin\Debug\dominio.pdb
+C:\Users\agustin\Desktop\tp4grupal\tp-web-equipo-7a\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\agustin\Desktop\tp4grupal\tp-web-equipo-7a\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\agustin\Desktop\tp4grupal\tp-web-equipo-7a\negocio\obj\Debug\negocio.csproj.Up2Date
+C:\Users\agustin\Desktop\tp4grupal\tp-web-equipo-7a\negocio\obj\Debug\negocio.dll
+C:\Users\agustin\Desktop\tp4grupal\tp-web-equipo-7a\negocio\obj\Debug\negocio.pdb
+C:\Users\maria\Desktop\WEB2\tp-web-equipo-7a\negocio\bin\Debug\negocio.dll
+C:\Users\maria\Desktop\WEB2\tp-web-equipo-7a\negocio\bin\Debug\negocio.pdb
+C:\Users\maria\Desktop\WEB2\tp-web-equipo-7a\negocio\bin\Debug\dominio.dll
+C:\Users\maria\Desktop\WEB2\tp-web-equipo-7a\negocio\bin\Debug\dominio.pdb
+C:\Users\maria\Desktop\WEB2\tp-web-equipo-7a\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\maria\Desktop\WEB2\tp-web-equipo-7a\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\maria\Desktop\WEB2\tp-web-equipo-7a\negocio\obj\Debug\negocio.csproj.Up2Date
+C:\Users\maria\Desktop\WEB2\tp-web-equipo-7a\negocio\obj\Debug\negocio.dll
+C:\Users\maria\Desktop\WEB2\tp-web-equipo-7a\negocio\obj\Debug\negocio.pdb
+C:\Users\agustin\Desktop\tp44\tp-web-equipo-7a\negocio\bin\Debug\negocio.dll
+C:\Users\agustin\Desktop\tp44\tp-web-equipo-7a\negocio\bin\Debug\negocio.pdb
+C:\Users\agustin\Desktop\tp44\tp-web-equipo-7a\negocio\bin\Debug\dominio.dll
+C:\Users\agustin\Desktop\tp44\tp-web-equipo-7a\negocio\bin\Debug\dominio.pdb
+C:\Users\agustin\Desktop\tp44\tp-web-equipo-7a\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\agustin\Desktop\tp44\tp-web-equipo-7a\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\agustin\Desktop\tp44\tp-web-equipo-7a\negocio\obj\Debug\negocio.csproj.Up2Date
+C:\Users\agustin\Desktop\tp44\tp-web-equipo-7a\negocio\obj\Debug\negocio.dll
+C:\Users\agustin\Desktop\tp44\tp-web-equipo-7a\negocio\obj\Debug\negocio.pdb
+C:\Users\maria\Desktop\tp4\tp-web-equipo-7a\negocio\bin\Debug\negocio.dll
+C:\Users\maria\Desktop\tp4\tp-web-equipo-7a\negocio\bin\Debug\negocio.pdb
+C:\Users\maria\Desktop\tp4\tp-web-equipo-7a\negocio\bin\Debug\dominio.dll
+C:\Users\maria\Desktop\tp4\tp-web-equipo-7a\negocio\bin\Debug\dominio.pdb
+C:\Users\maria\Desktop\tp4\tp-web-equipo-7a\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\maria\Desktop\tp4\tp-web-equipo-7a\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\maria\Desktop\tp4\tp-web-equipo-7a\negocio\obj\Debug\negocio.csproj.Up2Date
+C:\Users\maria\Desktop\tp4\tp-web-equipo-7a\negocio\obj\Debug\negocio.dll
+C:\Users\maria\Desktop\tp4\tp-web-equipo-7a\negocio\obj\Debug\negocio.pdb
+C:\Users\maria\Desktop\El ultimo de los ultimos\tp-web-equipo-7a\negocio\bin\Debug\negocio.dll
+C:\Users\maria\Desktop\El ultimo de los ultimos\tp-web-equipo-7a\negocio\bin\Debug\negocio.pdb
+C:\Users\maria\Desktop\El ultimo de los ultimos\tp-web-equipo-7a\negocio\bin\Debug\dominio.dll
+C:\Users\maria\Desktop\El ultimo de los ultimos\tp-web-equipo-7a\negocio\bin\Debug\dominio.pdb
+C:\Users\maria\Desktop\El ultimo de los ultimos\tp-web-equipo-7a\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\maria\Desktop\El ultimo de los ultimos\tp-web-equipo-7a\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\maria\Desktop\El ultimo de los ultimos\tp-web-equipo-7a\negocio\obj\Debug\negocio.csproj.Up2Date
+C:\Users\maria\Desktop\El ultimo de los ultimos\tp-web-equipo-7a\negocio\obj\Debug\negocio.dll
+C:\Users\maria\Desktop\El ultimo de los ultimos\tp-web-equipo-7a\negocio\obj\Debug\negocio.pdb
+C:\Users\agustin\Desktop\tp5-Apis\TPAPIs_equipo-7a\negocio\bin\Debug\negocio.dll
+C:\Users\agustin\Desktop\tp5-Apis\TPAPIs_equipo-7a\negocio\bin\Debug\negocio.pdb
+C:\Users\agustin\Desktop\tp5-Apis\TPAPIs_equipo-7a\negocio\bin\Debug\dominio.dll
+C:\Users\agustin\Desktop\tp5-Apis\TPAPIs_equipo-7a\negocio\bin\Debug\dominio.pdb
+C:\Users\agustin\Desktop\tp5-Apis\TPAPIs_equipo-7a\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\agustin\Desktop\tp5-Apis\TPAPIs_equipo-7a\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\agustin\Desktop\tp5-Apis\TPAPIs_equipo-7a\negocio\obj\Debug\negocio.csproj.Up2Date
+C:\Users\agustin\Desktop\tp5-Apis\TPAPIs_equipo-7a\negocio\obj\Debug\negocio.dll
+C:\Users\agustin\Desktop\tp5-Apis\TPAPIs_equipo-7a\negocio\obj\Debug\negocio.pdb
