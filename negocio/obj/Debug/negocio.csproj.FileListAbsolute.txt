@@ -88,3 +88,12 @@ C:\Users\agustin\Desktop\tp5-Apis\TPAPIs_equipo-7a\negocio\obj\Debug\negocio.csp
 C:\Users\agustin\Desktop\tp5-Apis\TPAPIs_equipo-7a\negocio\obj\Debug\negocio.csproj.Up2Date
 C:\Users\agustin\Desktop\tp5-Apis\TPAPIs_equipo-7a\negocio\obj\Debug\negocio.dll
 C:\Users\agustin\Desktop\tp5-Apis\TPAPIs_equipo-7a\negocio\obj\Debug\negocio.pdb
+C:\Users\agustin\Desktop\TP5 - APIs\tp-APIs\negocio\bin\Debug\negocio.dll
+C:\Users\agustin\Desktop\TP5 - APIs\tp-APIs\negocio\bin\Debug\negocio.pdb
+C:\Users\agustin\Desktop\TP5 - APIs\tp-APIs\negocio\bin\Debug\dominio.dll
+C:\Users\agustin\Desktop\TP5 - APIs\tp-APIs\negocio\bin\Debug\dominio.pdb
+C:\Users\agustin\Desktop\TP5 - APIs\tp-APIs\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\agustin\Desktop\TP5 - APIs\tp-APIs\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\agustin\Desktop\TP5 - APIs\tp-APIs\negocio\obj\Debug\negocio.csproj.Up2Date
+C:\Users\agustin\Desktop\TP5 - APIs\tp-APIs\negocio\obj\Debug\negocio.dll
+C:\Users\agustin\Desktop\TP5 - APIs\tp-APIs\negocio\obj\Debug\negocio.pdb

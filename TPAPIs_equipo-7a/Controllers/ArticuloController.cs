@@ -12,6 +12,7 @@ namespace TPAPIs_equipo_7a.Controllers
     public class ArticuloController : ApiController
     {
         // GET: api/Articulo
+        // LISTADO
         public IEnumerable<Articulo> Get()
         {
             ArticuloNegocio negocio = new ArticuloNegocio();
@@ -20,9 +21,13 @@ namespace TPAPIs_equipo_7a.Controllers
         }
 
         // GET: api/Articulo/5
-        public string Get(int id)
+        // BUSQUEDA POR ID
+        public Articulo Get(int id)
         {
-            return "value";
+            ArticuloNegocio negocio = new ArticuloNegocio();
+            List<Articulo> lista = negocio.ObtenerArticulosConImagenes();
+
+            return lista.Find(x => x.Id == id);
         }
 
         // POST: api/Articulo

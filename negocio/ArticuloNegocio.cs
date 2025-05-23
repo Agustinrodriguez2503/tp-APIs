@@ -16,7 +16,7 @@ namespace negocio
 
             try
             {
-                datos.setearConsulta("SELECT distinct A.Id, Codigo, Nombre, A.Descripcion , IdMarca, M.Descripcion DescripcionM,IdCategoria, C.Descripcion DescripcionC ,Precio FROM ARTICULOS A, MARCAS M, CATEGORIAS C\r\n");
+                datos.setearConsulta("SELECT A.Id, A.Codigo, A.Nombre, A.Descripcion , A.IdMarca, M.Descripcion DescripcionM, A.IdCategoria, C.Descripcion DescripcionC, A.Precio FROM ARTICULOS A, MARCAS M, CATEGORIAS C Where A.IdCategoria = C.Id And A.IdMarca = M.Id");
                 datos.ejecutarLectura();
 
                 while (datos.Lector.Read())
