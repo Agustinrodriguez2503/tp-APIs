@@ -4,6 +4,7 @@ using System.Linq;
 using System.Net;
 using System.Net.Http;
 using System.Web.Http;
+using System.Web.UI.WebControls.WebParts;
 using dominio;
 using negocio;
 using TPAPIs_equipo_7a.Areas.HelpPage.Models;
@@ -51,8 +52,22 @@ namespace TPAPIs_equipo_7a.Controllers
         }
 
         // PUT: api/Articulo/5
-        public void Put(int id, [FromBody]string value)
+        //MODIFICAR
+        public void Put(int id, [FromBody]ArticuloDto art)
         {
+            ArticuloNegocio negocio = new ArticuloNegocio();
+            Articulo nuevo = new Articulo();
+
+            nuevo.Nombre = art.Nombre;
+            nuevo.Codigo = art.Codigo;
+            nuevo.Descripcion = art.Descripcion;
+            nuevo.Marca = new Marca { Id = art.Marca };
+            nuevo.Categoria = new Categoria { Id = art.Categoria };
+            nuevo.Precio = art.Precio;
+            nuevo.Id = id;
+
+            negocio.modificar(nuevo);
+
         }
 
         // DELETE: api/Articulo/5
