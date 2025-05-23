@@ -6,6 +6,7 @@ using System.Net.Http;
 using System.Web.Http;
 using dominio;
 using negocio;
+using TPAPIs_equipo_7a.Areas.HelpPage.Models;
 
 namespace TPAPIs_equipo_7a.Controllers
 {
@@ -31,8 +32,22 @@ namespace TPAPIs_equipo_7a.Controllers
         }
 
         // POST: api/Articulo
-        public void Post([FromBody]string value)
+        // Se agrega un producto a la base de datos (sin imagen),
+        // luego de creado el articulo se le agrega la imagen en el POST de imagen, ya que necesitamos el IDArticulo.
+        public void Post([FromBody]ArticuloDto art)
         {
+            ArticuloNegocio negocio = new ArticuloNegocio();
+            Articulo nuevo = new Articulo();
+            
+            nuevo.Nombre = art.Nombre;
+            nuevo.Codigo = art.Codigo;
+            nuevo.Descripcion = art.Descripcion;
+            nuevo.Marca.Id = art.Marca;
+            nuevo.Categoria.Id = art.Categoria;
+            nuevo.Precio = art.Precio;
+
+            negocio.agregar(nuevo);
+
         }
 
         // PUT: api/Articulo/5
