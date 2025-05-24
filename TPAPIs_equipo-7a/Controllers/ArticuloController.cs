@@ -71,8 +71,19 @@ namespace TPAPIs_equipo_7a.Controllers
         }
 
         // DELETE: api/Articulo/5
-        public void Delete(int id)
+        public HttpResponseMessage Delete(int id)
         {
+            ArticuloNegocio negocio = new ArticuloNegocio();
+
+            Articulo buscado = negocio.ObtenerArticulosConImagenes().Find(x => x.Id == id);
+
+            if (buscado != null)
+            {
+                negocio.eliminar(id);
+                return Request.CreateResponse(HttpStatusCode.OK, "Articulo eliminado correctamente.");
+            }else
+                return Request.CreateResponse(HttpStatusCode.BadRequest, "El Articulo no existe.");
+
         }
     }
 }
