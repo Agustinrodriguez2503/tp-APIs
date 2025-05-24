@@ -1,26 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\agustin\\Desktop\\TP5\\tp-APIs\\",
+  "WorkspaceRootPath": "C:\\Users\\nahue\\Downloads\\TP API\\tp-APIs\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D9F4B385-1E26-427D-ACEA-9A123E51EF43}|negocio\\negocio.csproj|c:\\users\\agustin\\desktop\\tp5\\tp-apis\\negocio\\marcanegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9F4B385-1E26-427D-ACEA-9A123E51EF43}|negocio\\negocio.csproj|solutionrelative:negocio\\marcanegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2FC48067-3F11-4940-9B2F-ED0EDCB7E694}|TPAPIs_equipo-7a\\TPAPIs_equipo-7a.csproj|C:\\Users\\agustin\\Desktop\\TP5\\tp-APIs\\tpapis_equipo-7a\\areas\\helppage\\models\\articulodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2FC48067-3F11-4940-9B2F-ED0EDCB7E694}|TPAPIs_equipo-7a\\TPAPIs_equipo-7a.csproj|solutionrelative:tpapis_equipo-7a\\areas\\helppage\\models\\articulodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D9F4B385-1E26-427D-ACEA-9A123E51EF43}|negocio\\negocio.csproj|C:\\Users\\agustin\\Desktop\\TP5\\tp-APIs\\negocio\\articulonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9F4B385-1E26-427D-ACEA-9A123E51EF43}|negocio\\negocio.csproj|solutionrelative:negocio\\articulonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2FC48067-3F11-4940-9B2F-ED0EDCB7E694}|TPAPIs_equipo-7a\\TPAPIs_equipo-7a.csproj|c:\\users\\agustin\\desktop\\tp5\\tp-apis\\tpapis_equipo-7a\\controllers\\articulocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2FC48067-3F11-4940-9B2F-ED0EDCB7E694}|TPAPIs_equipo-7a\\TPAPIs_equipo-7a.csproj|C:\\Users\\nahue\\Downloads\\TP API\\tp-APIs\\tpapis_equipo-7a\\controllers\\articulocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2FC48067-3F11-4940-9B2F-ED0EDCB7E694}|TPAPIs_equipo-7a\\TPAPIs_equipo-7a.csproj|solutionrelative:tpapis_equipo-7a\\controllers\\articulocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9F4B385-1E26-427D-ACEA-9A123E51EF43}|negocio\\negocio.csproj|c:\\users\\agustin\\desktop\\tp5\\tp-apis\\negocio\\categorianegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D9F4B385-1E26-427D-ACEA-9A123E51EF43}|negocio\\negocio.csproj|C:\\Users\\nahue\\Downloads\\TP API\\tp-APIs\\negocio\\articulonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F4B385-1E26-427D-ACEA-9A123E51EF43}|negocio\\negocio.csproj|solutionrelative:negocio\\articulonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC48067-3F11-4940-9B2F-ED0EDCB7E694}|TPAPIs_equipo-7a\\TPAPIs_equipo-7a.csproj|C:\\Users\\nahue\\Downloads\\TP API\\tp-APIs\\tpapis_equipo-7a\\areas\\helppage\\models\\articulodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FC48067-3F11-4940-9B2F-ED0EDCB7E694}|TPAPIs_equipo-7a\\TPAPIs_equipo-7a.csproj|solutionrelative:tpapis_equipo-7a\\areas\\helppage\\models\\articulodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F4B385-1E26-427D-ACEA-9A123E51EF43}|negocio\\negocio.csproj|C:\\Users\\nahue\\Downloads\\TP API\\tp-APIs\\negocio\\categorianegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D9F4B385-1E26-427D-ACEA-9A123E51EF43}|negocio\\negocio.csproj|solutionrelative:negocio\\categorianegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F4B385-1E26-427D-ACEA-9A123E51EF43}|negocio\\negocio.csproj|c:\\users\\nahue\\downloads\\tp api\\tp-apis\\negocio\\marcanegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F4B385-1E26-427D-ACEA-9A123E51EF43}|negocio\\negocio.csproj|solutionrelative:negocio\\marcanegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,41 +30,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "CategoriaNegocio.cs",
-              "DocumentMoniker": "C:\\Users\\agustin\\Desktop\\TP5\\tp-APIs\\negocio\\CategoriaNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\nahue\\Downloads\\TP API\\tp-APIs\\negocio\\CategoriaNegocio.cs",
               "RelativeDocumentMoniker": "negocio\\CategoriaNegocio.cs",
-              "ToolTip": "C:\\Users\\agustin\\Desktop\\TP5\\tp-APIs\\negocio\\CategoriaNegocio.cs",
+              "ToolTip": "C:\\Users\\nahue\\Downloads\\TP API\\tp-APIs\\negocio\\CategoriaNegocio.cs",
               "RelativeToolTip": "negocio\\CategoriaNegocio.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-24T02:03:46.179Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "MarcaNegocio.cs",
-              "DocumentMoniker": "C:\\Users\\agustin\\Desktop\\TP5\\tp-APIs\\negocio\\MarcaNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\nahue\\Downloads\\TP API\\tp-APIs\\negocio\\MarcaNegocio.cs",
               "RelativeDocumentMoniker": "negocio\\MarcaNegocio.cs",
-              "ToolTip": "C:\\Users\\agustin\\Desktop\\TP5\\tp-APIs\\negocio\\MarcaNegocio.cs",
+              "ToolTip": "C:\\Users\\nahue\\Downloads\\TP API\\tp-APIs\\negocio\\MarcaNegocio.cs",
               "RelativeToolTip": "negocio\\MarcaNegocio.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwAkAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-24T02:02:37.661Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ArticuloDto.cs",
-              "DocumentMoniker": "C:\\Users\\agustin\\Desktop\\TP5\\tp-APIs\\TPAPIs_equipo-7a\\Areas\\HelpPage\\Models\\ArticuloDto.cs",
+              "DocumentMoniker": "C:\\Users\\nahue\\Downloads\\TP API\\tp-APIs\\TPAPIs_equipo-7a\\Areas\\HelpPage\\Models\\ArticuloDto.cs",
               "RelativeDocumentMoniker": "TPAPIs_equipo-7a\\Areas\\HelpPage\\Models\\ArticuloDto.cs",
-              "ToolTip": "C:\\Users\\agustin\\Desktop\\TP5\\tp-APIs\\TPAPIs_equipo-7a\\Areas\\HelpPage\\Models\\ArticuloDto.cs",
+              "ToolTip": "C:\\Users\\nahue\\Downloads\\TP API\\tp-APIs\\TPAPIs_equipo-7a\\Areas\\HelpPage\\Models\\ArticuloDto.cs",
               "RelativeToolTip": "TPAPIs_equipo-7a\\Areas\\HelpPage\\Models\\ArticuloDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -73,26 +73,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "ArticuloNegocio.cs",
-              "DocumentMoniker": "C:\\Users\\agustin\\Desktop\\TP5\\tp-APIs\\negocio\\ArticuloNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\nahue\\Downloads\\TP API\\tp-APIs\\negocio\\ArticuloNegocio.cs",
               "RelativeDocumentMoniker": "negocio\\ArticuloNegocio.cs",
-              "ToolTip": "C:\\Users\\agustin\\Desktop\\TP5\\tp-APIs\\negocio\\ArticuloNegocio.cs",
+              "ToolTip": "C:\\Users\\nahue\\Downloads\\TP API\\tp-APIs\\negocio\\ArticuloNegocio.cs",
               "RelativeToolTip": "negocio\\ArticuloNegocio.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAwwIwAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA9wIwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-23T00:10:35.283Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "ArticuloController.cs",
-              "DocumentMoniker": "C:\\Users\\agustin\\Desktop\\TP5\\tp-APIs\\TPAPIs_equipo-7a\\Controllers\\ArticuloController.cs",
+              "DocumentMoniker": "C:\\Users\\nahue\\Downloads\\TP API\\tp-APIs\\TPAPIs_equipo-7a\\Controllers\\ArticuloController.cs",
               "RelativeDocumentMoniker": "TPAPIs_equipo-7a\\Controllers\\ArticuloController.cs",
-              "ToolTip": "C:\\Users\\agustin\\Desktop\\TP5\\tp-APIs\\TPAPIs_equipo-7a\\Controllers\\ArticuloController.cs",
+              "ToolTip": "C:\\Users\\nahue\\Downloads\\TP API\\tp-APIs\\TPAPIs_equipo-7a\\Controllers\\ArticuloController.cs",
               "RelativeToolTip": "TPAPIs_equipo-7a\\Controllers\\ArticuloController.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAowDYAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAkwIkAAABfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-22T02:57:11.717Z",
               "EditorCaption": ""

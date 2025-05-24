@@ -85,21 +85,57 @@ namespace TPAPIs_equipo_7a.Controllers
 
         // PUT: api/Articulo/5
         //MODIFICAR
-        public void Put(int id, [FromBody]ArticuloDto art)
+        public HttpResponseMessage Put(int id, [FromBody]ArticuloDto art)
         {
             ArticuloNegocio negocio = new ArticuloNegocio();
-            Articulo nuevo = new Articulo();
+            MarcaNegocio marcaNegocio = new MarcaNegocio();
+            CategoriaNegocio categoriaNegocio = new CategoriaNegocio();
 
-            nuevo.Nombre = art.Nombre;
-            nuevo.Codigo = art.Codigo;
-            nuevo.Descripcion = art.Descripcion;
-            nuevo.Marca = new Marca { Id = art.Marca };
-            nuevo.Categoria = new Categoria { Id = art.Categoria };
-            nuevo.Precio = art.Precio;
-            nuevo.Id = id;
+            Articulo buscado = negocio.ObtenerArticulosConImagenes().Find(x => x.Id == id);
 
-            negocio.modificar(nuevo);
+            if (buscado != null)
+            {
+                //Validación de marca.
+                Marca idMarca = marcaNegocio.listar().Find(x => x.Id == art.Marca);
+                if (idMarca == null)
+                    return Request.CreateErrorResponse(HttpStatusCode.BadRequest, "La marca ingresada no existe.");
 
+                //Validación de categoria.
+                Categoria idCategoria = categoriaNegocio.listar().Find(x => x.Id == art.Categoria);
+                if (idCategoria == null)
+                    return Request.CreateErrorResponse(HttpStatusCode.BadRequest, "La categoría ingresada no existe.");
+
+                //Validación de nombre.
+                if (art.Nombre == null)
+                    return Request.CreateErrorResponse(HttpStatusCode.BadRequest, "Debe ingresar un nombre.");
+
+                //Validación de descripción.
+                if (art.Descripcion == null)
+                    return Request.CreateErrorResponse(HttpStatusCode.BadRequest, "Debe ingresar una descripción.");
+
+                //Validación de código.
+                if (art.Codigo == null)
+                    return Request.CreateErrorResponse(HttpStatusCode.BadRequest, "Debe ingresar un código.");
+
+                //Validación de precio.
+                if (art.Precio <= 0)
+                    return Request.CreateErrorResponse(HttpStatusCode.BadRequest, "Debe ingresar un precio mayor a 0.");
+
+                Articulo nuevo = new Articulo();
+
+                nuevo.Nombre = art.Nombre;
+                nuevo.Codigo = art.Codigo;
+                nuevo.Descripcion = art.Descripcion;
+                nuevo.Marca = new Marca { Id = art.Marca };
+                nuevo.Categoria = new Categoria { Id = art.Categoria };
+                nuevo.Precio = art.Precio;
+                nuevo.Id = id;
+
+                negocio.modificar(nuevo);
+                return Request.CreateResponse(HttpStatusCode.OK, "Articulo modificado correctamente.");
+            }
+
+            return Request.CreateResponse(HttpStatusCode.BadRequest, "El Articulo no existe.");
         }
 
         // DELETE: api/Articulo/5
