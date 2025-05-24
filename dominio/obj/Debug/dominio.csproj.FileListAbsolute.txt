@@ -64,3 +64,9 @@ C:\Users\maria\Desktop\APIIII\tp-APIs\dominio\obj\Debug\dominio.csproj.AssemblyR
 C:\Users\maria\Desktop\APIIII\tp-APIs\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
 C:\Users\maria\Desktop\APIIII\tp-APIs\dominio\obj\Debug\dominio.dll
 C:\Users\maria\Desktop\APIIII\tp-APIs\dominio\obj\Debug\dominio.pdb
+C:\Users\agustin\Desktop\TP5\tp-APIs\dominio\bin\Debug\dominio.dll
+C:\Users\agustin\Desktop\TP5\tp-APIs\dominio\bin\Debug\dominio.pdb
+C:\Users\agustin\Desktop\TP5\tp-APIs\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+C:\Users\agustin\Desktop\TP5\tp-APIs\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+C:\Users\agustin\Desktop\TP5\tp-APIs\dominio\obj\Debug\dominio.dll
+C:\Users\agustin\Desktop\TP5\tp-APIs\dominio\obj\Debug\dominio.pdb
