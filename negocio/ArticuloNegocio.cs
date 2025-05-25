@@ -139,5 +139,35 @@ namespace negocio
                 throw ex;
             }
         }
+
+        // En ArticuloNegocio.cs (o donde tengas la lógica principal)
+        public bool AgregarListaDeImagenes(int idDelProducto, List<Imagenes> listaDeImagenesDto)
+        {
+            ImagenesNegocio imagenesNegocio = new ImagenesNegocio(); // Tu negocio que contiene el método agregar(Imagenes nuevo)
+            bool todasAgregadasCorrectamente = true;
+
+            try
+            {
+                foreach (Imagenes imagenParaGuardar in listaDeImagenesDto)
+                {
+                    // MUY IMPORTANTE: Asignar el IdArticulo desde el parámetro de la URL.
+                    // Esto asegura que todas las imágenes se asocien al producto correcto,
+                    // ignorando cualquier IdArticulo que pudiera venir en el DTO del cliente.
+                    imagenParaGuardar.IdArticulo = idDelProducto;
+
+                    // Ahora 'imagenParaGuardar' es un objeto Imagenes completo
+                    // con IdArticulo correcto, y ImagenUrl, Descripcion, Orden, etc.,
+                    // tal como los envió el cliente.
+                    imagenesNegocio.agregar(imagenParaGuardar); // Llama a tu método que inserta UNA imagen
+                }
+            }
+            catch (Exception ex)
+            {
+                // Loguear la excepción (ex.ToString())
+                todasAgregadasCorrectamente = false;
+                // Podrías querer relanzar la excepción o manejarla de forma más específica
+            }
+            return todasAgregadasCorrectamente;
+        }
     }
 }
