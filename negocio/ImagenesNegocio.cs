@@ -64,49 +64,7 @@ namespace negocio
             {
                 datos.cerrarConexion();
             }
-        }
-
-        public void agregarListadoUrls(int id, List<string> listaUrlsImagenes)
-        {
-
-            if (listaUrlsImagenes == null || !listaUrlsImagenes.Any())
-            {
-                return;
-            }
-
-            foreach (string url in listaUrlsImagenes)
-            {
-                //Omitir url vacias
-                if (string.IsNullOrWhiteSpace(url))
-                {
-                    continue;
-                }
-
-                // Crear una nueva instancia de AccesoDatos para cada imagen
-                AccesoDatos datosParaUnaImagen = new AccesoDatos();
-                try
-                {
-                    Imagenes nuevaImagen = new Imagenes();
-                    nuevaImagen.IdArticulo = id;
-                    nuevaImagen.ImagenUrl = url;
-
-                    datosParaUnaImagen.setearConsulta("INSERT INTO IMAGENES (IdArticulo, ImagenUrl) VALUES (@IdArticulo, @ImagenUrl)");
-                    datosParaUnaImagen.setearParametro("@IdArticulo", nuevaImagen.IdArticulo);
-                    datosParaUnaImagen.setearParametro("@ImagenUrl", nuevaImagen.ImagenUrl);
-
-
-                    datosParaUnaImagen.ejecutarAccion();
-                }
-                catch (Exception ex)
-                {
-                    throw ex;
-                }
-                finally
-                {
-                    datosParaUnaImagen.cerrarConexion();
-                }
-            }
-        }
+        }        
     }
 }
 

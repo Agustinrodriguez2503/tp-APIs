@@ -96,7 +96,7 @@ namespace TPAPIs_equipo_7a.Controllers
         // Se agrega un listado de imagenes a un ID de articulo ya ingresado
         [HttpPost]
         [Route("api/Articulo/{id}/Imagenes")]
-        public HttpResponseMessage AgregarImagenes(int id, [FromBody] List<string> listaUrls)
+        public HttpResponseMessage AgregarListaImagenes(int id, [FromBody] List<string> listaUrls)
         {
             ArticuloNegocio articuloNegocio = new ArticuloNegocio();
             ImagenesNegocio imagenesNegocio = new ImagenesNegocio();
