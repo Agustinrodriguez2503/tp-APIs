@@ -59,23 +59,6 @@ namespace TPAPIs_equipo_7a.Controllers
             if (idCategoria == null)
                 return Request.CreateErrorResponse(HttpStatusCode.BadRequest, "La categoría ingresada no existe.");
 
-            //NO son necesarias estas validaciones ya que se valida en ArticulosDto
-            ////Validación de nombre.
-            //if (art.Nombre == null)
-            //    return Request.CreateErrorResponse(HttpStatusCode.BadRequest, "Debe ingresar un nombre.");
-
-            ////Validación de descripción.
-            //if (art.Descripcion == null)
-            //    return Request.CreateErrorResponse(HttpStatusCode.BadRequest, "Debe ingresar una descripción.");
-
-            ////Validación de código.
-            //if (art.Codigo == null)
-            //    return Request.CreateErrorResponse(HttpStatusCode.BadRequest, "Debe ingresar un código.");
-
-            ////Validación de precio.
-            //if (art.Precio <= 0)
-            //    return Request.CreateErrorResponse(HttpStatusCode.BadRequest, "Debe ingresar un precio mayor a 0.");
-
 
             Articulo nuevo = new Articulo();
 
